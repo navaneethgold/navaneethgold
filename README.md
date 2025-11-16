@@ -115,7 +115,7 @@
 <img src="https://github-trophies.vercel.app/?username=navaneethgold&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
 
 ### 📊 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=navaneethgold&custom_title=Priyansh's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=38bdae&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=navaneethgold&custom_title=Navaneeth's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=38bdae&area=true&hide_border=true" />
 
 ### 💡 Profile Summary
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=navaneethgold&theme=tokyonight" />
