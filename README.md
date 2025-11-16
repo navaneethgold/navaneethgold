@@ -1,11 +1,7 @@
 # <span style="display: flex; align-items: center;">Hi, I'm Navaneeth👋 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=F70000&background=FFFFFF00&width=435&vCenter=true&height=30&lines=Full+Stack+Developer...;Leetcoder...;GenAI+applications+dev...;" alt="Typing SVG" style="margin-left: 10px; position: relative; top: 2px;" /></span>
 
 
-<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=navaneethgold&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-
-</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/navaneeth-adharapuram-190686278) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:navaneethabs.2006@gmail.com) 
@@ -116,7 +112,9 @@
 
 <div align="center">
   
-### 📈 GitHub Statistics
+  ![Profile Views](https://komarev.com/ghpvc/?username=navaneethgold&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
+
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=navaneethgold&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&border_radius=20&hide_border=true" />
 
 ### 🏆 GitHub Trophies
