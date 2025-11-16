@@ -12,6 +12,11 @@
 
 <br clear="right"/>
 
+<div align="left">
+
+
+## 💫 About Me:
+
 - 🔭 I’m currently working on **Bicycle Locker Project**
 
 - 🌱 I’m currently learning **AI/ML & Cloud Basics**
@@ -25,6 +30,9 @@
 - 📫 How to reach me **navaneethabs.2006@gmail.com**
 
 - ⚡ Fun fact **I love building projects that combine intelligence + scalability — systems that actually do something smart, not just CRUD.**
+
+</div>
+
 
 ## 🛠️ Technology Stack
 
